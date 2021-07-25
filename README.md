@@ -10,18 +10,18 @@
 1. Refactor the Polygons (sequence) type, into an iterable. You'll need to implement both an iterable, and an iterator.
 
 
-# Class is implemented in Module Session10.py
+# Polygon Class is implemented in Module Session11.py
 
-https://github.com/dine1717/EPAI3_Session10/blob/main/Session10.py
+https://github.com/dine1717/EPAI3_Session11/blob/main/session11_1.py
 
-# Class is implemented in Module Session10.py
+# Polygon Iterator is implemented in Module Session11_2.py
 
-https://github.com/dine1717/EPAI3_Session10/blob/main/session10_regular_poly_seq.py
+https://github.com/dine1717/EPAI3_Session11/blob/main/session11_2.py
 
-# Test Cases implemented  in Session10test.py
+# Test Cases implemented  in test.py
 
-https://github.com/dine1717/EPAI3_Session10/blob/main/session_10test.py
+https://github.com/dine1717/EPAI3_Session11/blob/main/test.py
 
 # Access to modules in Notebook
 
-https://github.com/dine1717/EPAI3_Session10/blob/main/session10.ipynb
+https://github.com/dine1717/EPAI3_Session11/blob/main/session11.ipynb
