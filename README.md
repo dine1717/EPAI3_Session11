@@ -1,4 +1,4 @@
-# EPAI3_Session12 - Iterables and Iterators -1 
+# EPAI3_Session11 - Iterables and Iterators -1 
 
 
 1. The starting point for this project is the Polygon class and the Polygons sequence type we created in the previous project.
